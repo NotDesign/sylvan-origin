@@ -1,0 +1,662 @@
+[
+  {
+    "id": "p01",
+    "name": "ASUS ROG Astral LC GeForce RTX 5090 32GB GDDR7 OC",
+    "category": "顯示卡",
+    "price": 78000,
+    "image": "/products/p01.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5090",
+      "記憶體：32GB GDDR7；Memory Speed：28 Gbps；Memory Interface：512-bit",
+      "CUDA 核心數：21,760；Bus Standard：PCI Express 5.0",
+      "顯示輸出：3 x DisplayPort 2.1b / 2 x HDMI 2.1b",
+      "建議系統電源：1000W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p02",
+    "name": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 21000,
+    "image": "/products/p02.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5080",
+      "記憶體：16GB GDDR7；Memory Speed：30 Gbps；Memory Interface：256-bit",
+      "CUDA 核心數：10,752；Bus Standard：PCI Express 5.0",
+      "顯示輸出：DisplayPort 2.1b / HDMI 2.1b",
+      "建議系統電源：850W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p03",
+    "name": "ASUS TUF Gaming GeForce RTX 5070 Ti 16GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 14250,
+    "image": "/products/p03.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5070 Ti",
+      "記憶體：16GB GDDR7；Memory Speed：28 Gbps；Memory Interface：256-bit",
+      "CUDA 核心數：8,960；Bus Standard：PCI Express 5.0",
+      "顯示輸出：DisplayPort 2.1b / HDMI 2.1b",
+      "建議系統電源：850W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p04",
+    "name": "ASUS TUF Gaming GeForce RTX 5070 12GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 9150,
+    "image": "/products/p04.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5070",
+      "記憶體：12GB GDDR7；Memory Speed：28 Gbps；Memory Interface：192-bit",
+      "CUDA 核心數：6,144；Bus Standard：PCI Express 5.0",
+      "顯示輸出：DisplayPort 2.1b / HDMI 2.1b",
+      "建議系統電源：750W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p05",
+    "name": "ASUS TUF Gaming GeForce RTX 5060 Ti 16GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 10130,
+    "image": "/products/p05.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5060 Ti",
+      "記憶體：16GB GDDR7；Memory Speed：28 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：4,608；Bus Standard：PCI Express 5.0",
+      "顯示輸出：3 x DisplayPort 2.1b / 1 x HDMI 2.1b",
+      "建議系統電源：550W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p06",
+    "name": "ASUS TUF Gaming GeForce RTX 5060 Ti 8GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 6830,
+    "image": "/products/p06.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5060 Ti",
+      "記憶體：8GB GDDR7；Memory Speed：28 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：4,608；Bus Standard：PCI Express 5.0",
+      "顯示輸出：3 x DisplayPort 2.1b / 1 x HDMI 2.1b",
+      "建議系統電源：550W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p07",
+    "name": "ASUS PRIME GeForce RTX 5060 8GB GDDR7 OC Edition",
+    "category": "顯示卡",
+    "price": 5700,
+    "image": "/products/p07.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5060",
+      "記憶體：8GB GDDR7；Memory Speed：28 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：3,840；Bus Standard：PCI Express 5.0",
+      "顯示輸出：3 x DisplayPort 2.1b / 1 x HDMI 2.1b",
+      "建議系統電源：550W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p08",
+    "name": "ASUS Dual GeForce RTX 5050 8GB GDDR6 OC Edition",
+    "category": "顯示卡",
+    "price": 3900,
+    "image": "/products/p08.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5050",
+      "記憶體：8GB GDDR6；Memory Speed：20 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：2,560；Bus Standard：PCI Express 5.0",
+      "顯示輸出：3 x DisplayPort 2.1b / 1 x HDMI 2.1b",
+      "建議系統電源：550W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p09",
+    "name": "ASUS TUF Gaming GeForce RTX 4090 OC Edition 24GB GDDR6X",
+    "category": "顯示卡",
+    "price": 25050,
+    "image": "/products/p09.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4090",
+      "記憶體：24GB GDDR6X；Memory Speed：21 Gbps；Memory Interface：384-bit",
+      "CUDA 核心數：16,384；Bus Standard：PCI Express 4.0",
+      "顯示輸出：DisplayPort 1.4a / HDMI 2.1a",
+      "建議系統電源：850W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p10",
+    "name": "ASUS TUF Gaming GeForce RTX 4080 SUPER 16GB GDDR6X OC Edition",
+    "category": "顯示卡",
+    "price": 14980,
+    "image": "/products/p10.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4080 SUPER",
+      "記憶體：16GB GDDR6X；Memory Speed：23 Gbps；Memory Interface：256-bit",
+      "CUDA 核心數：10,240；Bus Standard：PCI Express 4.0",
+      "顯示輸出：DisplayPort 1.4a / HDMI 2.1a",
+      "建議系統電源：850W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p11",
+    "name": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER 16GB GDDR6X OC Edition",
+    "category": "顯示卡",
+    "price": 10350,
+    "image": "/products/p11.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4070 Ti SUPER",
+      "記憶體：16GB GDDR6X；Memory Speed：21 Gbps；Memory Interface：256-bit",
+      "CUDA 核心數：8,448；Bus Standard：PCI Express 4.0",
+      "顯示輸出：DisplayPort 1.4a / HDMI 2.1a",
+      "建議系統電源：750W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p12",
+    "name": "ASUS Dual GeForce RTX 4070 SUPER 12GB GDDR6X",
+    "category": "顯示卡",
+    "price": 7220,
+    "image": "/products/p12.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4070 SUPER",
+      "記憶體：12GB GDDR6X；Memory Speed：21 Gbps；Memory Interface：192-bit",
+      "CUDA 核心數：7,168；Bus Standard：PCI Express 4.0",
+      "顯示輸出：3 x DisplayPort 1.4a / 1 x HDMI 2.1a",
+      "建議系統電源：750W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p13",
+    "name": "MSI GeForce RTX 4070 VENTUS 2X E 12G OC",
+    "category": "顯示卡",
+    "price": 6750,
+    "image": "/products/p13.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4070",
+      "記憶體：12GB GDDR6X；Memory Speed：21 Gbps；Memory Interface：192-bit",
+      "CUDA 核心數：5,888；Boost Clock：2505 MHz",
+      "顯示輸出：3 x DisplayPort 1.4a / 1 x HDMI 2.1a",
+      "顯示卡功耗：200W；建議系統電源：650W"
+    ],
+    "brand": "MSI"
+  },
+  {
+    "id": "p14",
+    "name": "ASUS Dual GeForce RTX 4060 Ti 16GB GDDR6",
+    "category": "顯示卡",
+    "price": 5930,
+    "image": "/products/p14.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4060 Ti",
+      "記憶體：16GB GDDR6；Memory Speed：18 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：4,352；Bus Standard：PCI Express 4.0",
+      "顯示輸出：3 x DisplayPort 1.4a / 1 x HDMI 2.1a",
+      "建議系統電源：650W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p15",
+    "name": "ASUS Dual GeForce RTX 4060 Ti 8GB GDDR6",
+    "category": "顯示卡",
+    "price": 4550,
+    "image": "/products/p15.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4060 Ti",
+      "記憶體：8GB GDDR6；Memory Speed：18 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：4,352；Bus Standard：PCI Express 4.0",
+      "顯示輸出：3 x DisplayPort 1.4a / 1 x HDMI 2.1a",
+      "建議系統電源：650W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p16",
+    "name": "ASUS Dual GeForce RTX 4060 OC Edition 8GB GDDR6",
+    "category": "顯示卡",
+    "price": 3680,
+    "image": "/products/p16.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 4060",
+      "記憶體：8GB GDDR6；Memory Speed：17 Gbps；Memory Interface：128-bit",
+      "CUDA 核心數：3,072；Bus Standard：PCI Express 4.0",
+      "顯示輸出：3 x DisplayPort 1.4a / 1 x HDMI 2.1a",
+      "建議系統電源：550W"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p17",
+    "name": "ASUS ProArt PA602 Wood Edition - Tempered Glass Panel",
+    "category": "機殼",
+    "price": 3000,
+    "image": "/products/p17.jpg",
+    "specs": [
+      "機殼尺寸：Mid Tower；主機板：E-ATX (12\" x 10.9\") / ATX / Micro-ATX / Mini-ITX / DTX / Mini-DTX",
+      "水冷支援（頂部）：120 / 140 / 240 / 280 / 360 / 420 mm",
+      "最大 GPU 長度：440 mm；最大 CPU 散熱器高度：185 mm；最大 PSU 長度：190 mm",
+      "尺寸：593 x 560 x 245 mm；重量：15.8 kg",
+      "前置 I/O：USB 3.2 Gen 2x2 Type-C x1 / USB 3.2 Gen1 x2 / USB 2.0 x2"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p18",
+    "name": "ASUS ProArt PA401 Wood Edition - Mesh Panel",
+    "category": "機殼",
+    "price": 1590,
+    "image": "/products/p18.jpg",
+    "specs": [
+      "主機板支援：ATX；擴充槽：7",
+      "水冷支援（頂部）：120 / 140 / 240 mm；前置風扇：2 x 160 mm（預裝）",
+      "最大 GPU 長度：315 mm；最大 CPU 散熱器高度：160 mm；最大 PSU 長度：170 mm",
+      "尺寸：412 x 225 x 503 mm；重量：8.61 kg",
+      "前置 I/O：USB 3.2 Gen 2x2 Type-C x1 / USB 3.2 Gen1 x2 / Headphone-Mic x1"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p19",
+    "name": "Lian Li LANCOOL 217 (LAN217X, Black)",
+    "category": "機殼",
+    "price": 1440,
+    "image": "/products/p19.jpg",
+    "specs": [
+      "主機板：SSI-EEB (寬度 ≤330 mm) / E-ATX (寬度 ≤280 mm) / ATX / Micro-ATX / Mini-ITX",
+      "GPU 長度：最大 380 mm；CPU 散熱器高度：最大 180 mm",
+      "PSU 長度：標準模式 ≤220 mm；旋轉模式 ≤180 mm",
+      "水冷支援（頂部）：240 / 280 / 360 mm",
+      "尺寸：482 x 238 x 503 mm；材質：鋼 / 4 mm 強化玻璃 / 木材"
+    ],
+    "brand": "Lian"
+  },
+  {
+    "id": "p20",
+    "name": "Fractal Design North XL Charcoal Black Mesh",
+    "category": "機殼",
+    "price": 2000,
+    "image": "/products/p20.jpg",
+    "specs": [
+      "主機板：E-ATX / ATX / Micro-ATX / Mini-ITX",
+      "前置水冷：最高 420 mm；頂部水冷：最高 360 mm；後置水冷：120 / 140 mm",
+      "最大 GPU 長度：413 mm；最大 CPU 散熱器高度：185 mm；最大 PSU 長度：290 mm",
+      "尺寸：503 x 240 x 509 mm；重量：9.7 kg",
+      "前置 I/O：USB Type-C 20Gbps x1 / USB Type-A 5Gbps x2 / Audio / Mic"
+    ],
+    "brand": "Fractal"
+  },
+  {
+    "id": "p21",
+    "name": "ASUS Pro WS WRX90E-SAGE SE",
+    "category": "主機板",
+    "price": 19200,
+    "image": "/products/p21.jpg",
+    "specs": [
+      "CPU Socket：AMD sTR5；支援 Ryzen Threadripper PRO 9000 / 7000 WX-Series",
+      "Chipset：AMD WRX90；記憶體：8 x DDR5 ECC RDIMM、8-channel",
+      "擴充：6 x PCIe 5.0 x16 + 1 x PCIe 5.0 x16（x8 mode）",
+      "儲存：4 x M.2 PCIe 5.0 x4；網路：Dual 10GbE + BMC 1Gb LAN",
+      "尺寸：EEB 30.5 x 33 cm"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p22",
+    "name": "ASUS Pro WS TRX50-SAGE WIFI A",
+    "category": "主機板",
+    "price": 14550,
+    "image": "/products/p22.jpg",
+    "specs": [
+      "CPU Socket：AMD sTR5；支援 Threadripper PRO 9000/7000 WX-Series 及 Threadripper 9000/7000 Series",
+      "Chipset：AMD TRX50；記憶體：4 x DDR5 ECC RDIMM、4-channel",
+      "擴充：3 x PCIe 5.0 x16 + 1 x PCIe 4.0 x16",
+      "網路：10GbE + 2.5GbE；無線：Wi-Fi 7 / Bluetooth 5.4",
+      "尺寸：CEB 30.5 x 28.0 cm"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p23",
+    "name": "ASUS ProArt X870E-CREATOR WIFI",
+    "category": "主機板",
+    "price": 6680,
+    "image": "/products/p23.jpg",
+    "specs": [
+      "CPU Socket：AMD AM5；支援 Ryzen 9000 / 8000 / 7000 Series",
+      "Chipset：AMD X870E；記憶體：4 x DDR5 DIMM，最大 256GB",
+      "擴充：2 x PCIe 5.0 x16（x16 / x8+x8）+ 1 x PCIe 4.0 x16（x4）",
+      "儲存：4 x M.2（2 x PCIe 5.0 x4 + 2 x PCIe 4.0 x4）",
+      "網路：10GbE + 2.5GbE；Wi-Fi 7 / Bluetooth 5.4；尺寸：ATX"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p24",
+    "name": "ASUS ROG CROSSHAIR X870E HERO",
+    "category": "主機板",
+    "price": 8160,
+    "image": "/products/p24.jpg",
+    "specs": [
+      "CPU Socket：AMD AM5；支援 Ryzen 9000 / 8000 / 7000 Series",
+      "Chipset：AMD X870E；記憶體：4 x DDR5 DIMM，最大 256GB",
+      "顯示輸出：HDMI 2.1 + 2 x USB4 Type-C Display Output",
+      "USB：2 x USB4 40Gbps + USB 10/20Gbps",
+      "網路：高速有線 LAN + Wi-Fi 7；尺寸：ATX 30.5 x 24.4 cm"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p25",
+    "name": "AMD Ryzen Threadripper PRO 9995WX",
+    "category": "處理器",
+    "price": 137100,
+    "image": "/products/p25.jpg",
+    "specs": [
+      "架構：Zen 5；Socket：sTR5；PCI Express：PCIe 5.0",
+      "核心 / 執行緒：96 / 192",
+      "基本時脈：2.5 GHz；最大 Boost：最高 5.4 GHz",
+      "L3 Cache：384MB；Default TDP：350W",
+      "記憶體：DDR5 ECC RDIMM，8-channel，最高 6400 MT/s"
+    ],
+    "brand": "AMD"
+  },
+  {
+    "id": "p26",
+    "name": "AMD Ryzen Threadripper 9980X",
+    "category": "處理器",
+    "price": 58090,
+    "image": "/products/p26.jpg",
+    "specs": [
+      "架構：Zen 5；Socket：sTR5；PCI Express：PCIe 5.0",
+      "核心 / 執行緒：64 / 128",
+      "基本時脈：3.2 GHz；最大 Boost：最高 5.4 GHz",
+      "L3 Cache：256MB；Default TDP：350W",
+      "記憶體：DDR5 RDIMM，4-channel，最高 6400 MT/s；支援 ECC"
+    ],
+    "brand": "AMD"
+  },
+  {
+    "id": "p27",
+    "name": "AMD Ryzen Threadripper 9960X",
+    "category": "處理器",
+    "price": 17820,
+    "image": "/products/p27.jpg",
+    "specs": [
+      "架構：Zen 5；Socket：sTR5；PCI Express：PCIe 5.0",
+      "核心 / 執行緒：24 / 48",
+      "基本時脈：4.2 GHz；最大 Boost：最高 5.4 GHz",
+      "L3 Cache：128MB；Default TDP：350W",
+      "記憶體：DDR5 RDIMM，最高 6400 MT/s；支援 ECC"
+    ],
+    "brand": "AMD"
+  },
+  {
+    "id": "p28",
+    "name": "AMD Ryzen 9 9950X3D",
+    "category": "處理器",
+    "price": 6750,
+    "image": "/products/p28.jpg",
+    "specs": [
+      "架構：Zen 5 + 3D V-Cache；Socket：AM5；PCI Express：PCIe 5.0",
+      "核心 / 執行緒：16 / 32",
+      "基本時脈：4.3 GHz；最大 Boost：最高 5.7 GHz",
+      "L3 Cache：128MB；Default TDP：170W",
+      "記憶體：DDR5；內建顯示：AMD Radeon Graphics"
+    ],
+    "brand": "AMD"
+  },
+  {
+    "id": "p29",
+    "name": "Seasonic PRIME TX-1600",
+    "category": "電源供應器",
+    "price": 5970,
+    "image": "/products/p29.jpg",
+    "specs": [
+      "額定功率：1600W",
+      "效率認證：80 PLUS Titanium / Cybenetics Titanium",
+      "線材：全模組化；風扇：135 mm Fluid Dynamic Bearing",
+      "保護機制：OPP / OVP / UVP / SCP / OCP / OTP",
+      "尺寸：210 x 150 x 86 mm"
+    ],
+    "brand": "Seasonic"
+  },
+  {
+    "id": "p30",
+    "name": "Seasonic PRIME PX-2200 ATX 3.1",
+    "category": "電源供應器",
+    "price": 6750,
+    "image": "/products/p30.jpg",
+    "specs": [
+      "額定功率：2200W；規範：ATX 3.1 / PCIe 5.1",
+      "效率認證：80 PLUS Platinum",
+      "線材：全模組化；原生顯卡供電：12V-2x6",
+      "風扇：135 mm Fluid Dynamic Bearing",
+      "尺寸：210 x 150 x 86 mm"
+    ],
+    "brand": "Seasonic"
+  },
+  {
+    "id": "p31",
+    "name": "ASUS ROG THOR 1600W Titanium III",
+    "category": "電源供應器",
+    "price": 7350,
+    "image": "/products/p31.jpg",
+    "specs": [
+      "額定功率：1600W；規範：ATX 3.1",
+      "效率認證：80 PLUS Titanium；線材：全模組化",
+      "顯卡供電：PCIe 16-pin x2 / PCIe 6+2-pin x4",
+      "CPU 4+4-pin x2；SATA x10；Peripheral x9",
+      "尺寸：200 x 150 x 86 mm；特色：OLED 即時功耗顯示"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p32",
+    "name": "Seasonic FOCUS GX-850",
+    "category": "電源供應器",
+    "price": 1860,
+    "image": "/products/p32.jpg",
+    "specs": [
+      "額定功率：850W；規範：ATX 3.1 / PCIe 5.1",
+      "效率認證：80 PLUS Gold；線材：全模組化",
+      "原生顯卡供電：12V-2x6",
+      "風扇：135 mm Fluid Dynamic Bearing",
+      "尺寸：140 x 150 x 86 mm"
+    ],
+    "brand": "Seasonic"
+  },
+  {
+    "id": "p33",
+    "name": "Crucial T710 4TB",
+    "category": "SSD",
+    "price": 7050,
+    "image": "/products/p33.jpg",
+    "specs": [
+      "容量：4TB；Form Factor：M.2 2280",
+      "介面：PCIe Gen5 x4 / NVMe",
+      "Sequential Read：最高 14,500 MB/s",
+      "Sequential Write：最高 13,800 MB/s",
+      "耐用度：最高 2,400 TBW"
+    ],
+    "brand": "Crucial"
+  },
+  {
+    "id": "p34",
+    "name": "Crucial T710 2TB",
+    "category": "SSD",
+    "price": 5070,
+    "image": "/products/p34.jpg",
+    "specs": [
+      "容量：2TB；Form Factor：M.2 2280",
+      "介面：PCIe Gen5 x4 / NVMe",
+      "Sequential Read：最高 14,500 MB/s",
+      "Sequential Write：最高 13,800 MB/s",
+      "耐用度：約 1,200 TBW"
+    ],
+    "brand": "Crucial"
+  },
+  {
+    "id": "p35",
+    "name": "Samsung 9100 PRO 4TB PCIe 5.0 NVMe",
+    "category": "SSD",
+    "price": 8700,
+    "image": "/products/p35.jpg",
+    "specs": [
+      "容量：4TB；Form Factor：M.2 2280",
+      "介面：PCIe 5.0 x4 / NVMe 2.0",
+      "Sequential Read：最高 14,800 MB/s",
+      "Sequential Write：最高 13,400 MB/s",
+      "耐用度：2,400 TBW"
+    ],
+    "brand": "Samsung"
+  },
+  {
+    "id": "p36",
+    "name": "Samsung 9100 PRO 8TB PCIe 5.0 NVMe",
+    "category": "SSD",
+    "price": 14520,
+    "image": "/products/p36.jpg",
+    "specs": [
+      "容量：8TB；Form Factor：M.2 2280",
+      "介面：PCIe 5.0 x4 / NVMe 2.0",
+      "Sequential Read：最高 14,800 MB/s",
+      "Sequential Write：最高 13,400 MB/s",
+      "耐用度：4,800 TBW"
+    ],
+    "brand": "Samsung"
+  },
+  {
+    "id": "p37",
+    "name": "Xiaomi Mini PC i5-1240P",
+    "category": "迷你電腦",
+    "price": 7040,
+    "image": "/products/p37.jpg",
+    "specs": [
+      "作業系統：Windows 11 Home；處理器：Intel Core i5-1240P",
+      "記憶體：16GB DDR4-3200；儲存：512GB SSD",
+      "顯示：Intel Iris Xe Graphics",
+      "網路 / 連接：2.5GbE / Wi-Fi / Bluetooth / Thunderbolt 4 / HDMI",
+      "尺寸：112 x 112 x 38 mm；重量：約 437 g"
+    ],
+    "brand": "Xiaomi"
+  },
+  {
+    "id": "p38",
+    "name": "ASUS ROG NUC (2025) - Core Ultra 9 275HX / RTX 5080 / 32GB / 2TB",
+    "category": "迷你電腦",
+    "price": 41220,
+    "image": "/products/p38.jpg",
+    "specs": [
+      "作業系統：Windows 11 Home；CPU：Intel Core Ultra 9 275HX",
+      "GPU：NVIDIA GeForce RTX 5080 Laptop GPU",
+      "記憶體：32GB DDR5-6400 CSO-DIMM（16GB x2）",
+      "儲存：2TB M.2 2280 NVMe PCIe 4.0 SSD",
+      "網路：2.5GbE / Wi-Fi 7 / Bluetooth 5.4"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p39",
+    "name": "ASUS ROG NUC (2025) - Core Ultra 9 275HX / RTX 5070 Ti / 32GB / 2TB",
+    "category": "迷你電腦",
+    "price": 38820,
+    "image": "/products/p39.jpg",
+    "specs": [
+      "作業系統：Windows 11 Home；CPU：Intel Core Ultra 9 275HX",
+      "GPU：NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+      "記憶體：32GB DDR5-6400 CSO-DIMM（16GB x2）",
+      "儲存：2TB M.2 2280 NVMe PCIe 4.0 SSD",
+      "網路：2.5GbE / Wi-Fi 7 / Bluetooth 5.4"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p40",
+    "name": "MINISFORUM AI X1 Pro-470 - Ryzen AI 9 HX 470 / 32GB / 1TB",
+    "category": "迷你電腦",
+    "price": 15750,
+    "image": "/products/p40.jpg",
+    "specs": [
+      "作業系統：Windows 11 Pro；CPU：AMD Ryzen AI 9 HX 470",
+      "GPU：AMD Radeon 890M；記憶體：32GB；儲存：1TB SSD",
+      "顯示 / 擴充：HDMI 2.1 / DisplayPort 2.0 / USB4 / OCuLink",
+      "網路：Dual 2.5GbE",
+      "無線：Wi-Fi 7 / Bluetooth 5.4"
+    ],
+    "brand": "MINISFORUM"
+  },
+  {
+    "id": "p41",
+    "name": "ROG XG Mobile (2025) RTX 5070 Ti Laptop GPU - GC34R",
+    "category": "外接顯示 / 擴充",
+    "price": 16500,
+    "image": "/products/p41.jpg",
+    "specs": [
+      "GPU：NVIDIA GeForce RTX 5070 Ti Laptop GPU，12GB GDDR7",
+      "主機連接：Thunderbolt 5 Type-C；USB-C Power Delivery：最高 140W",
+      "網路：5Gb Ethernet",
+      "I/O：Thunderbolt 5 / USB 3.2 Gen 2 Type-A / HDMI 2.1 / DisplayPort 2.1 / RJ-45 / SD Card Reader",
+      "電源：330W AC Adapter"
+    ],
+    "brand": "ROG"
+  },
+  {
+    "id": "p42",
+    "name": "Razer Core X V2 eGPU",
+    "category": "外接顯示 / 擴充",
+    "price": 4050,
+    "image": "/products/p42.jpg",
+    "specs": [
+      "主機連接：Thunderbolt 5 (USB-C)，最高 80Gbps",
+      "GPU：支援全尺寸 PCIe 顯示卡，最大約 4-slot",
+      "電源：支援標準 ATX PSU（電源供應器需另購）",
+      "USB-C Power Delivery：最高 140W",
+      "相容主機：Windows 11，Thunderbolt 4 / 5 或 USB4 eGFX（依主機規格）"
+    ],
+    "brand": "Razer"
+  },
+  {
+    "id": "p43",
+    "name": "ASUS ThunderboltEX 5 Expansion Card",
+    "category": "外接顯示 / 擴充",
+    "price": 1800,
+    "image": "/products/p43.jpg",
+    "specs": [
+      "介面：PCIe 4.0 x4；Controller：Intel Thunderbolt 5 JHL9580",
+      "連接埠：2 x Thunderbolt 5 USB Type-C",
+      "頻寬：最高 120Gbps（Bandwidth Boost）",
+      "Display Input：3 x Mini DisplayPort",
+      "充電：最高總輸出 130W；作業系統：Windows 11（依主機板相容性）"
+    ],
+    "brand": "ASUS"
+  },
+  {
+    "id": "p44",
+    "name": "ASUS ThunderboltEX 4 Expansion Card",
+    "category": "外接顯示 / 擴充",
+    "price": 1890,
+    "image": "/products/p44.jpg",
+    "specs": [
+      "介面：PCIe 3.0 x4；Controller：Intel Thunderbolt 4 JHL8540",
+      "連接埠：2 x Thunderbolt 4 USB Type-C，最高 40Gbps",
+      "USB-C 1：最高 20V / 5A（100W）；USB-C 2：最高 9V / 3A（27W）",
+      "Display Input：2 x Mini DisplayPort；DisplayPort 1.4",
+      "作業系統：Windows 10 / 11 64-bit"
+    ],
+    "brand": "ASUS"
+  }
+]
